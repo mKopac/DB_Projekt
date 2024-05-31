@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Catch 22",
+    "author": {
+      "first_name": "Joseph",
+      "last_name": "Heller",
+      "nationality": "American",
+      "biography": "He does author stuff",
+      "website": "http://joesephheller.com",
+      "birth_date": "1923-05-01"
+    },
+    "publisher": {
+      "publisher_name": "Simon & Schuster",
+      "founder": "Jane Smith",
+      "website": "http://simonschuster.com",
+      "address_id": 1234567890
+    },
+    "year_published": 1961,
+    "genre": {
+      "genre_name": "Satire",
+      "description": "It mainly follows the life of antihero Captain John Yossarian, a U.S. Army Air Force bombardier."
+    },
+    "book_series": {
+      "series_name": "Catch 22",
+      "description": "A series about human insanity."
+    },
+    "language": "English",
+    "ISBN": "0-671-12805-1",
+    "pageCount": "453",
+    "format": "Hardcover",
+    "edition": "First Edition",
+    "publication_date": "1961-10-10",
+    "weight": 500,
+    "reviews": [
+      {
+        "user_id": 123456,
+        "user_rating": "5",
+        "review_text": "A fascinating read!",
+        "review_date": "2023-06-01"
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Novel of the Year",
+        "award_year": "1961",
+        "organization_name": "Insane Assylum",
+        "award_date": "1961-12-10"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "event_date": "1961-10-10",
+        "description": "Launch event for the new book."
+      }
+    ]
+  },
+  {
+    "name": "1984",
+    "author": {
+      "first_name": "George",
+      "last_name": "Orwell",
+      "nationality": "British",
+      "biography": "A brief biography of the author",
+      "website": "http://georgeorwell.com",
+      "birth_date": "1903-06-25"
+    },
+    "publisher": {
+      "publisher_name": "Secker & Warburg",
+      "founder": "Secker & Warburg",
+      "website": "http://publisher.com",
+      "address_id": 1234567890
+    },
+    "year_published": 1949,
+    "genre": {
+      "genre_name": "Political Fiction",
+      "description": "The current year is uncertain, but believed to be 1984. Much of the world is in perpetual war."
+    },
+    "book_series": {
+      "series_name": "1984",
+      "description": "A series of books about government control."
+    },
+    "language": "English",
+    "ISBN": "470015866",
+    "pageCount": "328",
+    "format": "Hardcover",
+    "edition": "First Edition",
+    "publication_date": "1949-06-08",
+    "weight": 500,
+    "reviews": [
+      {
+        "user_id": 123456,
+        "user_rating": "5",
+        "review_text": "A fascinating read!",
+        "review_date": "2023-06-01"
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Best Novel",
+        "award_year": "1949",
+        "organization_name": "Big Brother Association",
+        "award_date": "1949-11-30"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "event_date": "1949-06-08",
+        "description": "Launch event for the new book."
+      }
+    ]
+  },
+  {
+    "name": "Band of Brothers",
+    "author": {
+      "first_name": "Steven",
+      "last_name": "Ambrose",
+      "nationality": "American",
+      "biography": "A brief biography of the author",
+      "website": "http://stevenambrose.com",
+      "birth_date": "1936-01-10"
+    },
+    "publisher": {
+      "publisher_name": "Touchstone ",
+      "founder": "Somebody",
+      "website": "http://Touchstone.com",
+      "address_id": 1234567890
+    },
+    "year_published": 1992,
+    "genre": {
+      "genre_name": "Historical anecdote novel",
+      "description": "Story of members of Easy Company, 506th PIR during World War 2."
+    },
+    "book_series": {
+      "series_name": "Band of Brothers",
+      "description": "A series of books exploring the history."
+    },
+    "language": "English",
+    "ISBN": "978-0743224543",
+    "pageCount": "336",
+    "format": "Hardcover",
+    "edition": "First Edition",
+    "publication_date": "1992-01-01",
+    "weight": 500,
+    "reviews": [
+      {
+        "user_id": 123456,
+        "user_rating": "5",
+        "review_text": "A fascinating read!",
+        "review_date": "2023-06-01"
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Best Novel",
+        "award_year": "1992",
+        "organization_name": "History Association",
+        "award_date": "1992-06-06"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "event_date": "1992-01-01",
+        "description": "Launch event for the new book."
+      }
+    ]
+  }
+]
+
