@@ -1,0 +1,30 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "birth_date": "1990-02-15",
+    "gender": "Male",
+    "age": 34,
+    "email": "johndoe@example.com",
+    "address_id": "addressObjectId"
+  },
+  {
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "birth_date": "1991-05-22",
+    "gender": "Female",
+    "age": 29,
+    "email": "alicesmith@example.com",
+    "address_id": "addressObjectId"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Oliver",
+    "birth_date": "1977-04-23",
+    "gender": "Male",
+    "age": 47,
+    "email": "johnoliver@example.com",
+    "address_id": "addressObjectId"
+  }
+]
+
