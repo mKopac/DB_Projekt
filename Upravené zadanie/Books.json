@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Catch-22",
+    "author": {
+      "first_name": "Joseph",
+      "last_name": "Heller",
+      "nationality": "American",
+      "biography": "Joseph Heller was an American author best known for his satirical novel Catch-22. He was born on May 1, 1923, in Brooklyn, New York.",
+      "website": "http://josephheller.com",
+      "birth_date": "1923-05-01T00:00:00Z"
+    },
+    "publisher": {
+      "publisher_name": "Simon & Schuster",
+      "founder": "Richard L. Simon and M. Lincoln Schuster",
+      "website": "http://simonandschuster.com",
+      "address": {
+        "street": "123 Main St",
+        "postal_code": "12345",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    "year_published": 1961,
+    "genre": {
+      "genre_name": "Satire",
+      "description": "A genre of literature that uses humor, irony, or ridicule to criticize or expose the flaws and shortcomings of individuals, institutions, or society."
+    },
+    "book_series": {
+      "series_name": "",
+      "description": ""
+    },
+    "language": "English",
+    "ISBN": "978-1451626650",
+    "pageCount": "453",
+    "format": "Paperback",
+    "edition": "First Edition",
+    "publication_date": "1961-11-10T00:00:00Z",
+    "weight": 500,
+    "reviews": [
+      {
+        "user": {
+          "first_name": "John",
+          "last_name": "Doe",
+          "birth_date": "1990-02-15",
+          "gender": "Male",
+          "age": 34,
+          "email": "johndoe@example.com",
+          "address": {
+            "street": "123 Main St",
+            "postal_code": "12345",
+            "city": "New York",
+            "country": "USA"
+          }
+        },
+        "user_rating": "5",
+        "review_text": "A brilliant satire of war and bureaucracy. A must-read!",
+        "review_date": "2023-06-01T00:00:00Z"
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Modern Library's 100 Best Novels",
+        "award_year": "1998",
+        "organization_name": "Modern Library",
+        "award_date": "1998-01-01T00:00:00Z"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "event_date": "1961-11-10T00:00:00Z",
+        "description": "Launch event for the new book."
+      }
+    ]
+  }
+  ,
+  {
+    "name": "1984",
+    "author": {
+      "first_name": "George",
+      "last_name": "Orwell",
+      "nationality": "British",
+      "biography": "George Orwell was an English novelist, essayist, journalist, and critic. He is best known for his dystopian novel 1984. He was born on June 25, 1903, in Motihari, India.",
+      "website": "http://georgeorwell.com",
+      "birth_date": "1903-06-25T00:00:00Z"
+    },
+    "publisher": {
+      "publisher_name": "Secker & Warburg",
+      "founder": "Fredric Warburg",
+      "website": "http://seckerwarburg.com",
+      "address": {
+        "street": "345 Secondary St",
+        "postal_code": "67890",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    "year_published": 1949,
+    "genre": {
+      "genre_name": "Dystopian",
+      "description": "A genre of speculative fiction that explores social and political structures in a dark, nightmare world."
+    },
+    "book_series": {
+      "series_name": "",
+      "description": ""
+    },
+    "language": "English",
+    "ISBN": "978-0451524935",
+    "pageCount": "328",
+    "format": "Paperback",
+    "edition": "First Edition",
+    "publication_date": "1949-06-08T00:00:00Z",
+    "weight": 450,
+    "reviews": [
+      {
+        "user": {
+          "first_name": "Alice",
+          "last_name": "Smith",
+          "birth_date": "1991-05-22",
+          "gender": "Female",
+          "age": 29,
+          "email": "alicesmith@example.com",
+          "address": {
+            "street": "345 Secondary St",
+            "postal_code": "67890",
+            "city": "New York",
+            "country": "USA"
+          }
+        },
+        "user_rating": "5",
+        "review_text": "A chilling depiction of a totalitarian regime. A timeless warning.",
+        "review_date": "2023-06-01T00:00:00Z"
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Prometheus Hall of Fame Award",
+        "award_year": "1984",
+        "organization_name": "Libertarian Futurist Society",
+        "award_date": "1984-01-01T00:00:00Z"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "event_date": "1949-06-08T00:00:00Z",
+        "description": "Launch event for the new book at Secker & Warburg."
+      }
+    ]
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "author": {
+      "first_name": "Harper",
+      "last_name": "Lee",
+      "nationality": "American",
+      "biography": "Harper Lee was an American novelist widely known for To Kill a Mockingbird, published in 1960. She was born on April 28, 1926, in Monroeville, Alabama.",
+      "website": "http://harperlee.com",
+      "birth_date": "1926-04-28T00:00:00Z"
+    },
+    "publisher": {
+      "publisher_name": "J.B. Lippincott & Co.",
+      "founder": "Joshua Ballinger Lippincott",
+      "website": "http://lippincott.com",
+      "address_id": {
+        "street": "678 Tertiary St",
+        "postal_code": "02468",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    "year_published": 1960,
+    "genre": {
+      "genre_name": "Southern Gothic",
+      "description": "A genre of literature that focuses on the southern United States, often featuring grotesque themes and damaged characters."
+    },
+    "book_series": {
+      "series_name": "",
+      "description": ""
+    },
+    "language": "English",
+    "ISBN": "978-0060935467",
+    "pageCount": "281",
+    "format": "Paperback",
+    "edition": "First Edition",
+    "publication_date": "1960-07-11T00:00:00Z",
+    "weight": 400,
+    "reviews": [
+      {
+        "user": {
+          "first_name": "John",
+          "last_name": "Oliver",
+          "birth_date": "1977-04-23",
+          "gender": "Male",
+          "age": 47,
+          "email": "johnoliver@example.com",
+          "address": {
+            "street": "678 Tertiary St",
+            "postal_code": "02468",
+            "city": "New York",
+            "country": "USA"
+          }
+        },
+        "user_rating": "5",
+        "review_text": "A powerful and moving story that still resonates today.",
+        "review_date": "2023-06-01T00:00:00Z"
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Pulitzer Prize for Fiction",
+        "award_year": "1961",
+        "organization_name": "Pulitzer Prize Board",
+        "award_date": "1961-05-01T00:00:00Z"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "event_date": "1960-07-11T00:00:00Z",
+        "description": "Launch event for the new book at J.B. Lippincott & Co."
+      }
+    ]
+  }  
+]
+
